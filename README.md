@@ -2,8 +2,7 @@
 <h3 align="center">A full stack developer based in Germany</h3>
 
 <p align="center">
-  After multiple years of working with Android apps and JVM backends written in Kotlin, I am currently learning more about web development. After experimenting with SvelteKit and working professionally with Angular, I am currently developing most of my personal apps with NextJS.
-  I mostly develop apps for my personal use and open-source just about everything of that. I also plan to write small blog articles on my portfolio to document my learning process.
+  After getting into software development by creating native Android apps using Kotlin, the last few years I focused on web development. I worked with React and Angular professionally and have chosen Next.js as the framework for my personal projects. Most of my work is open source and I love to continue creating software for everyone.
 </p>
 
 <div class="row" align="center">
